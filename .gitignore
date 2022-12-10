@@ -1,0 +1,3 @@
+__pycache__
+build/
+numpy_bin_tools/*.so
