@@ -3,6 +3,7 @@
 #include <iostream>
 #include <span>
 #include <vector>
+#include <algorithm>
 
 template<typename T>
 void fwht_inplace(std::span<T> vec)
